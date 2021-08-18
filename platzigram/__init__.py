@@ -1,1 +1,0 @@
-# declara platzigram como modulo de python
